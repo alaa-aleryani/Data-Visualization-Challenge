@@ -9,4 +9,4 @@ As a senior data analyst at the company, I've been given access to the complete 
 The executive team has tasked us with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked us for a top-level summary of the study results.
 
 ## Note:
-My full script and analysis will be found in "pymaceuticals_main_script.ipynb"
+My full script and analysis will be found under Pymaceuticals folder in "pymaceuticals_main_script.ipynb"
